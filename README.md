@@ -6,4 +6,4 @@ My name is Maddy. I am from TX.
 I am Palmer. I love Autumn.
 
 
-My name is Joseph. I am tired a lot. 
+My name is Joseph. I am a fan of Superman.
