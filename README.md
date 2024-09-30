@@ -1,4 +1,4 @@
-My namne is Edwin and I love mountain biking
+My namne is Edwin and I love mountain biking.
 
 My name is Austin and I believe in Bigfoot!
 
