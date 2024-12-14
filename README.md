@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My namne is Edwin and I love mountain biking.
+=======
+My namne is Edwin and I love mountain biking!
+>>>>>>> 1722573bfd290b20af02bd4a99cd40d9d5e0934a
 
 My name is Austin and I believe in Bigfoot!
 
