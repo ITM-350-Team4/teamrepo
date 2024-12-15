@@ -1,6 +1,6 @@
 ami                         = "ami-0e252be8f4dfa2c0d"
-cluster_name		        = TODO
-container_image             = TODO
+cluster_name		        = "bb-cluster3"
+container_image             = "epacardo/itm350-teamrepo-bb:sha-d42bbfb"
 container_port              = 8080
 instance_name_prefix	    = "cit262-node"
 instance_type               = "t2.micro"
