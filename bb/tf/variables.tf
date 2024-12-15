@@ -11,29 +11,29 @@ variable "container_image" {
 }
 
 variable "container_port" {
-  type = number
+  type = 8080
 }
 
 variable "instance_name_prefix" {
-  type = string
+  type = "cit262-node"
 }
 
 variable "instance_type" {
-  type = string
+  type = "t2.micro"
 }
 
 variable "lab_role" {
-  type = string
+  type = "arn:aws:iam::353518434405:role/LabRole"
 }
 
 variable "region" {
-  type = string
+  type = "us-west-2"
 }
 
 variable "vpc_cidr" {
-  type = string
+  type = "10.0.0.0/16"
 }
 
 variable "vpc_prefix" {
-  type = string
+  type = "ecs-vpc"
 }
