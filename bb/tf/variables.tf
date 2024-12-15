@@ -1,13 +1,13 @@
 variable "ami" {
-  type = string
+  type = "ami-0e252be8f4dfa2c0d"
 }
 
 variable "cluster_name" {
-  type = string
+  type = "bb-cluster3"
 }
 
 variable "container_image" {
-  type = string
+  type = "epacardo/itm350-teamrepo-bb:sha-d42bbfb"
 }
 
 variable "container_port" {
