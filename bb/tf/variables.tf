@@ -3,7 +3,7 @@ variable "ami" {
 }
 
 variable "cluster_name" {
-  default = "bb-cluster3"
+  default = "bb"
 }
 
 variable "container_image" {
@@ -27,7 +27,7 @@ variable "lab_role" {
 }
 
 variable "region" {
-  default = "us-west-2"
+  default = "us-east-1"
 }
 
 variable "vpc_cidr" {
