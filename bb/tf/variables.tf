@@ -1,39 +1,39 @@
 variable "ami" {
-  type = string
+  default = "ami-0e252be8f4dfa2c0d"
 }
 
 variable "cluster_name" {
-  type = string
+  default = "bb"
 }
 
 variable "container_image" {
-  type = string
+  default = "epacardo/itm350-teamrepo-bb:sha-d42bbfb"
 }
 
 variable "container_port" {
-  type = number
+  default = 8080
 }
 
 variable "instance_name_prefix" {
-  type = string
+  default = "cit262-node"
 }
 
 variable "instance_type" {
-  type = string
+  default = "t2.micro"
 }
 
 variable "lab_role" {
-  type = string
+  default = "arn:aws:iam::353518434405:role/LabRole"
 }
 
 variable "region" {
-  type = string
+  default = "us-east-1"
 }
 
 variable "vpc_cidr" {
-  type = string
+  default = "10.0.0.0/16"
 }
 
 variable "vpc_prefix" {
-  type = string
+  default = "ecs-vpc"
 }
